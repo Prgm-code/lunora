@@ -68,10 +68,6 @@
         "reason": "pending conversion"
     },
     {
-        "file": "packages/shard-engine/__tests__/relay-hub.test.ts",
-        "reason": "a real-clock timeout sentinel in a race, pending conversion"
-    },
-    {
         "file": "packages/studio/__tests__/app/platform-capability-gate.test.tsx",
         "reason": "pending conversion"
     },
