@@ -20,10 +20,6 @@
         "reason": "pending conversion"
     },
     {
-        "file": "packages/db/__tests__/scoped-mutators.test.ts",
-        "reason": "a real-clock timeout sentinel in a race, pending conversion"
-    },
-    {
         "file": "packages/do/__tests__/shard-do.durable-stream.test.ts",
         "reason": "pending conversion"
     },
